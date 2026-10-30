@@ -1,0 +1,7 @@
+[
+  {"id":1,"district":"Sonnenberg","lat":50.8362,"lng":12.9402,"rooms":2,"m2":54,"hours":3,"price":45,"photo":null,"de":"Wohnung nach Auszug reinigen","en":"Clean flat after move-out"},
+  {"id":2,"district":"Kaßberg","lat":50.8413,"lng":12.9168,"rooms":3,"m2":78,"hours":5,"price":70,"photo":null,"de":"Altbau-Wohnung, Grundreinigung","en":"Period flat, deep clean"},
+  {"id":3,"district":"Zentrum","lat":50.8326,"lng":12.9241,"rooms":1,"m2":32,"hours":2,"price":30,"photo":null,"de":"Kleine Wohnung vor Neuvermietung","en":"Small flat before new tenant"},
+  {"id":4,"district":"Schloßchemnitz","lat":50.8442,"lng":12.9008,"rooms":2,"m2":61,"hours":4,"price":60,"photo":null,"de":"Fenster und Böden reinigen","en":"Windows and floors"},
+  {"id":5,"district":"Hilbersdorf","lat":50.8221,"lng":12.9557,"rooms":4,"m2":92,"hours":6,"price":85,"photo":null,"de":"Große Wohnung, Endreinigung","en":"Large flat, final clean"}
+]
